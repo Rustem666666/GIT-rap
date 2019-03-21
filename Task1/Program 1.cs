@@ -30,6 +30,7 @@ namespace Task1
             //Выводим данные со знаком $
             Console.WriteLine($"{a} {b}. Возраст {c} лет. Рост {d} см. Вес {e} кг.");
             Console.ReadLine();
+
         }
     }
 }

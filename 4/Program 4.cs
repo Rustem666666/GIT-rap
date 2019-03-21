@@ -34,6 +34,7 @@ namespace _4
             a = a - b;  // Присваиваем a результат вычитания b из обновленного значения a. Готово
             Console.WriteLine($"Новое значение a={a},b={b}.");
             Console.ReadLine();
+
         }
     }
 }
