@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <text>Луна синего цвета? Да????</text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>Структура хранит значения в стеке?</text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>Твоя жизнь не имеет смысла?</text>
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>Windows Forms ничем не отличается от WPF.</text>
+    <trueFalse>false</trueFalse>
+  </Question>
+</ArrayOfQuestion>
